@@ -14,6 +14,9 @@ py -m venv .venv
 ```shell
 py -m pip install --upgrade pip setuptools wheel
 py -m pip install -r requirements.txt
+
+py -m pip install -U spacy==3.5.3
+py -m spacy download en_core_web_sm
 ```
 **Running**
 

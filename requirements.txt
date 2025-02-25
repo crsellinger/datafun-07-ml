@@ -2,3 +2,8 @@ jupyterlab
 pandas
 pyarrow
 loguru
+matplotlib
+spacy
+scipy
+scikit-learn
+seaborn
